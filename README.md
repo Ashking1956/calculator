@@ -14,6 +14,6 @@ This is a simple calculator app built using Jetpack Compose in Android Studio. T
 ## Installation
 
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/calculatorapp.git
-
+   ```
+   git clone https://github.com/Ashking1956/calculator.git
+   ```
